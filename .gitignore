@@ -1,0 +1,11 @@
+/venv/
+/Download/
+
+mainwindow.ui
+
+*.spec
+
+/dist/
+/build/
+/src/
+/target/
